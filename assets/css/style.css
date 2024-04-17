@@ -14,3 +14,6 @@ body {
     padding-left: 3%;
     color: white !important;
 }
+html {
+    scroll-behavior: smooth;
+}
