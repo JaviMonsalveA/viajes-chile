@@ -10,3 +10,7 @@ body {
     width: 100%; 
     z-index: 1000; 
 }
+.iconos {
+    padding-left: 3%;
+    color: white !important;
+}
